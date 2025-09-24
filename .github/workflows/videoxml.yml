@@ -27,7 +27,7 @@ jobs:
         run: |
           python py/videoxml.py > en/videoall.xml
         env:
-          TZ: America/New_York  # Set the timezone
+          TZ: America/New_York
 
       - name: Pull latest changes before commit
         run: |
@@ -42,6 +42,7 @@ jobs:
           commit_message: "Update token"
           branch: main
           files: |
-            en/videoxml.xml
+            en/videoall.xml
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
