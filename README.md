@@ -53,7 +53,8 @@ M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/ref
 💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8
 
 ##  Website: [https://streamed.pk](https://streamed.pk)
-💥 M3U: [https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamEast.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8)
+💥 M3U: [https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8)
+
 
 
 
